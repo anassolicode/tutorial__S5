@@ -17,7 +17,9 @@ function calculerSurface(longueur , largeur){
 
 
 
-function estGrand(surface){
+function estGrand(surface)
+    
+{
     return surface >= 100 ;
 }
 
